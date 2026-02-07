@@ -1,9 +1,8 @@
-en:
+﻿en:
   PLUGIN_PAGE_STATS:
     PAGE_STATS: Page Stats
     STATS_DB_LABEL: Page Stats DB path
     STATS_DB_HELP: Path to db relative to Grav root
-
 
     WIDGET:
         ENABLED:
@@ -45,6 +44,7 @@ en:
     PAGE_VIEWS_WIDGET: Page Views
 
     RECENTLY_VIEWED_PAGES: Recently Viewed Pages
+    VIEW_LAST_1000_PAGES: View last 1000 pages
 
     TOP_PAGES: Top Pages
 
@@ -54,6 +54,40 @@ en:
 
     TOP_PLATFORMS: Top Platforms
 
+    TOP_USERS: Top Users
+
+    UNIQUE_USERS: Unique Users
+    UNIQUE_VISITORS: Unique Visitors
+
+    TABLE_COUNTRIES: Countries
+    TABLE_COUNTRY: Country
+    TABLE_PLATFORM: Platform
+    TABLE_SHARE: "% share"
+    TABLE_DATE: Date
+    TABLE_PAGE: Page
+    TABLE_USER: User
+    TABLE_LOCATION: Location
+    TABLE_BROWSER: Browser
+    TABLE_TIME_ON_PAGE: Time on Page
+    TABLE_USER_AGENT: User Agent
+    TABLE_VIEWS: Views
+    TABLE_PAGE_VIEWS: Page Views
+    TABLE_UNIQUE_VISITORS: Unique visitors
+    TABLE_UNIQUE_LOGGED_IN_USERS: Unique logged in Users
+
+    VIEW_ALL: View all
+    ALL_PAGES: All Pages
+    PAGE_DETAILS_TITLE: Page Details
+    PAGE_STATS_TITLE: Page Stats
+    USER_DETAILS: User Details
+    USING: Using
+    PAGE_VIEWS: Page Views
+    VIEW_PAGE: view page
+    VIEW_PAGE_STATS: view page stats
+    NOT_LOGGED_IN: not logged in
+    VIEW_STATS_USER: View stats for user
+    MOST_VIEWED_PAGES: Most Viewed Pages
+    
     IGNORED_IPS_LABEL: "IP's to ignore"
     IGNORED_IPS_HELP: "IP's in this list will be ignored, you can use regular expressions or normal IP dotted notation (eg: 127.0.0.1 or 127.*)"
     IP: "IP to ignore"
@@ -78,7 +112,6 @@ en:
 
     IGNORE_ERRORS_LABEL: Ignore Errors
     IGNORE_ERRORS_HELP: IF true, errors will be logged, otherwise an exception is thrown.
-
 
     PAGE_DETAILS:
       RECENT_VIEWS: Recent Views on Page Details
